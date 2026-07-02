@@ -1,10 +1,11 @@
 package com.example.project;
 
 public class Triangle implements Shape {
-    // TODO: add fields as needed
+    private final double base;
+    private final double height;
 
     public Triangle(double base, double height) {
-        // TODO: store parameter(s)
+        this.base
     }
 
     @Override
